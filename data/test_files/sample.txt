@@ -1,0 +1,12 @@
+This is a sample text file for testing the RAG pipeline.
+    
+    It contains multiple paragraphs to test chunking.
+    
+    Machine learning is a subset of artificial intelligence that enables 
+    computers to learn from data without being explicitly programmed.
+    
+    Deep learning is a subset of machine learning that uses neural networks
+    with multiple layers to learn complex patterns in data.
+    
+    Natural language processing (NLP) is a field of AI that focuses on
+    the interaction between computers and human language.
